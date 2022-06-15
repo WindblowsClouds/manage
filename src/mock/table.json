@@ -1,0 +1,38 @@
+[
+    {
+        "name": "苹果",
+        "todayBuy": "2010",
+        "monthBuy": "5555",
+        "totalBuy": "10800"
+    },
+    {
+        "name": "华为",
+        "todayBuy": "2100",
+        "monthBuy": "9555",
+        "totalBuy": "18000"
+    },
+    {
+        "name": "小米",
+        "todayBuy": "1950",
+        "monthBuy": "4555",
+        "totalBuy": "8000"
+    },
+    {
+        "name": "vivo",
+        "todayBuy": "1100",
+        "monthBuy": "3555",
+        "totalBuy": "5000"
+    },
+    {
+        "name": "oppo",
+        "todayBuy": "900",
+        "monthBuy": "1555",
+        "totalBuy": "3000"
+    },
+    {
+        "name": "魅族",
+        "todayBuy": "10",
+        "monthBuy": "55",
+        "totalBuy": "800"
+    }
+]
